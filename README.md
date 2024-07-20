@@ -1,8 +1,11 @@
 # Cadastro de Vacinas
 
 Linguagem Utilizada: C
+
 Realização do Projeto: Junho de 2022 (1° semestre)
+
 Matéria: Algoritmos e Lógica de Programação II
+
 Estado do Projeto: 100% Concluído.
 
 Um dos meus primeiros projetos na faculdade de Engenharia de Software. O projeto consiste em criar um sistema de cadastro de vacinas utilizando a Linguagem C.
