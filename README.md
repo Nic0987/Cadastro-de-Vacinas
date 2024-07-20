@@ -8,6 +8,7 @@ Matéria: Algoritmos e Lógica de Programação II
 
 Estado do Projeto: 100% Concluído.
 
+* Descrição:
 Um dos meus primeiros projetos na faculdade de Engenharia de Software. O projeto consiste em criar um sistema de cadastro de vacinas utilizando a Linguagem C.
 
 • Funções do Projeto: 
